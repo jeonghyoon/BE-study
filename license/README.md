@@ -41,7 +41,13 @@
  
 - 2024.2.6(화) 5:30-6:30am
    - 2023.2회차 3/5 펜슬 _개념 공부
-   - 출근 문제은행 앱 2022.1회차 1/2
+   - 출퇴근 문제은행 앱 2022.1회차 1/2
 
     <img src='https://github.com/bbahna/BE-study/assets/92833235/6a990623-5909-4afe-8e13-fd4d2fe667ae' width='700' />
+
+- 2024.2.7(수) 5:30-6:30am
+   - 2023.2회차 5/5 펜슬 _개념 공부
+   - 출퇴근 문제은행 앱 2022.1회차 2/2
+
+    <img src='https://github.com/bbahna/BE-study/assets/92833235/2010ce4a-b48b-4c26-ab4d-120f7ce222d1' width='700' />
 
