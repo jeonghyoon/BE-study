@@ -51,3 +51,5 @@
 
     <img src='https://github.com/bbahna/BE-study/assets/92833235/2010ce4a-b48b-4c26-ab4d-120f7ce222d1' width='700' />
 
+- 2024.2.8(목)
+   - 출근 문제은행 앱 2022.1회차 오답 복습
