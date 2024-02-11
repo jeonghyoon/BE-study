@@ -50,11 +50,17 @@
    - 출퇴근 문제은행 앱 2022.1회차 2/2
 
     <img src='https://github.com/bbahna/BE-study/assets/92833235/2010ce4a-b48b-4c26-ab4d-120f7ce222d1' width='700' />
-
 - 2024.2.8(목)
    - 출근 문제은행 앱 2022.1회차 오답 복습
 
-- 2024.2.10(토) 13:30-15:00am
+- 2024.2.10(토) 13:30-15:00pm
    - 2021.3회차 1/2 펜슬 _개념 공부
 
     <img src='https://github.com/bbahna/BE-study/assets/92833235/1472edbf-c6b1-463d-984f-f226634650f2' width='700' />
+
+- 2024.2.11(일) 13:00-17:00pm
+   - 2021.3회차 2/2 펜슬 _개념 공부
+   - 문제은행 앱 2021.3회차 다시 풀기/오답 복습
+   - 문제은행 앱 2021.2회차 풀기
+
+    <img src='https://github.com/bbahna/BE-study/assets/92833235/eeb122a9-a818-4459-8bac-e534a103fa25' width='700' />
