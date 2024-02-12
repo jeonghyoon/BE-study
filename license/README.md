@@ -64,3 +64,10 @@
    - 문제은행 앱 2021.2회차 풀기
 
     <img src='https://github.com/bbahna/BE-study/assets/92833235/eeb122a9-a818-4459-8bac-e534a103fa25' width='700' />
+
+- 2024.2.12(월) 12:00-16:00pm, 17:00-18:00pm
+   - 문제은행 앱 2021.2회차 오답 복습
+   - 문제은행 웹 2021.1회차 풀기/오답 복습
+   - 단숨노트 2022.3-2023.2회차 오답 정리
+
+    <img src='https://github.com/bbahna/BE-study/assets/92833235/fdfe6e39-cd9e-4069-b7a0-e012ca3b882d' width='700' />
