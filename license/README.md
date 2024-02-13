@@ -71,3 +71,6 @@
    - 단숨노트 2022.3-2023.2회차 오답 정리
 
     <img src='https://github.com/bbahna/BE-study/assets/92833235/fdfe6e39-cd9e-4069-b7a0-e012ca3b882d' width='700' />
+
+- 2024.2.13(화)
+   - 출퇴근 단숨노트 2022.3-2023.2회차 오답 복습(2회)
