@@ -75,8 +75,16 @@
 - 2024.2.13(화)
    - 출퇴근 단숨노트 2022.3-2023.2회차 오답 복습(2회)
 
-- 2024.2.14(수) 5:30-7:00am
+- 2024.2.14(수) 5:30-6:30am
    - 문제은행 웹 150문제 랜덤 풀기
    - 출퇴근 문제은행 웹 100문제 시험/오답 복습
 
     <img src='https://github.com/bbahna/BE-study/assets/92833235/d49f213e-de6c-4fa6-9263-b5020bc2d18b' width='700' />
+
+- 2024.2.15(목) 5:30-7:00am, 13:00-14:00pm
+   - 문제은행 웹 100문제 시험/오답 복습
+   - 핵심 요약집 북마크 페이지 복습
+   - 출퇴근 문제은행 웹 랜덤 풀기
+
+    <img src='https://github.com/bbahna/BE-study/assets/92833235/685e23e4-d33d-4aa5-8089-31a1ede7af3b' width='700' />
+    <img src='https://github.com/bbahna/BE-study/assets/92833235/0f83d4c1-f473-4927-9526-bd584d97e244' width='700' />
