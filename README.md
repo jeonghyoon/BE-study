@@ -5,12 +5,13 @@
 ### Node
 
 - [인프런 - 따라하며 배우는 NestJS(6시간12분)](https://hyoon-share.notion.site/NestJS-6-12-43f2c09bfe5b4870ae5025eb32b6e345?pvs=4)
-  - [관련 repo - Board](https://github.com/bbahna/Board)
+  - [관련 repo > Board](https://github.com/bbahna/Board)
 - [Udemy - NodeJS 완벽 가이드(39시간14분)](/node/express/README.md)
 
 ### Java
 
 - [인프런 - 스프링 입문 ~ 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술(5시간 21분)](/java/spring/README.md)
+  - [관련 repo > java-spring](https://github.com/jeonghyoon/java-spring)
 
 <!--
 - [[enter] 김영한의 자바 입문 - 코드로 시작하는 자바 첫걸음(12시간51분)](https://inf.run/2zsZz)
