@@ -38,4 +38,5 @@
 
 ### license
 
-- [정보처리기사 - 필기/실기](/license/README.md)
+- [정보처리기사 - 필기](/license/Written.md)
+- [정보처리기사 - 실기](/license/Practical.md)
