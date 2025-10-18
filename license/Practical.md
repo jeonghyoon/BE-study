@@ -22,13 +22,13 @@
 
     <img src='https://github.com/user-attachments/assets/684cb29c-57c4-4caf-a659-ed517845cd7b' width='350' /> <img src='https://github.com/user-attachments/assets/5ca1cf03-e2c6-489b-ad10-7cd06858d74c' width='350' />
 
-- 2025.10.7(화) 3:00-7:00pm
+- 2025.10.8(수) 3:00-7:00pm
 
   - 2024.1회차 18/18 _문제 해설 강의
 
     <img src='https://github.com/user-attachments/assets/85fe4224-7f8f-4c45-a213-213e52217be0' width='700' /> <img src='https://github.com/user-attachments/assets/087bfe07-560c-46d7-932b-749c44a53a64' width='700' />
 
-- 2025.10.7(화) 3:0-6:00pm
+- 2025.10.10(금) 3:00-6:00pm
 
   - (복습) 2024.3회차 20/20, 2024.2회차 5/5 _문제 해설 강의
 
