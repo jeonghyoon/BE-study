@@ -34,9 +34,9 @@
 - [스프링부트 개념정리(이론)(4시간 5분) | 최주호](https://inf.run/YztX)
 - [스프링부트 시큐리티 & JWT 강의(8시간 28분) | 최주호](https://inf.run/13oM)
 - [실전! 스프링 부트와 JPA 활용1 - 웹 애플리케이션 개발(7시간 44분) | 김영한](https://inf.run/hhEvV)
-- [실전! 스프링 부트와 JPA 활용2 - API 개발과 성능 최적화(6시간 35분) | 김영한](https://inf.run/CU9mR) -->
+- [실전! 스프링 부트와 JPA 활용2 - API 개발과 성능 최적화(6시간 35분) | 김영한](https://inf.run/CU9mR)
 
 ### license
 
 - [정보처리기사 - 필기](/license/Written.md)
-- [정보처리기사 - 실기](/license/Practical.md)
+- [정보처리기사 - 실기](/license/Practical.md) -->
