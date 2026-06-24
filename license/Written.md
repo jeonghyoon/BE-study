@@ -50,6 +50,12 @@
 
 - 2026.5.24(일) 08:30 시험일
 
+- 2024.6.10(수) 09:00 발표일
+
+  - 합격 데스 🤭
+
+    <img src='https://github.com/user-attachments/assets/7435965a-f214-45e7-950d-c1694ba4cd74' width='350' />
+
 
 ### 필기(2024.3) - 공부 기록 (2023.2-2021.1회차, 8개)
 
@@ -157,7 +163,7 @@
     <img src='https://github.com/bbahna/BE-study/assets/92833235/685e23e4-d33d-4aa5-8089-31a1ede7af3b' width='700' />
     <img src='https://github.com/bbahna/BE-study/assets/92833235/0f83d4c1-f473-4927-9526-bd584d97e244' width='700' />
 
-- 2024.3.13(수) 발표일
+- 2024.3.13(수) 09:00 발표일
 
   - 합격 데스 🤗
 
